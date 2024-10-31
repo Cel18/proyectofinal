@@ -1,4 +1,7 @@
 # Proyecto-final
-# Proyecto-final
-# proyectofinal
-# proyectofinal
+Integrantes:
+- Celeste Buitrago Ramirez
+- Juan Esteban Cardona Rendón
+- Juan Sebastián Londoño Ramirez
+
+Video:
